@@ -24,7 +24,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 115,
-    lpSymbol: 'NRV-BNB LP',
+    lpSymbol: 'PUSH-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x7e92315491a687430d3ca20e8f6417252d8cb4f3',
