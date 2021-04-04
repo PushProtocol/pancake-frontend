@@ -27,7 +27,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'NRV-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x5a805994a2e30ac710e7376ccc0211285bd4dd92',
+      56: '0x7e92315491a687430d3ca20e8f6417252d8cb4f3',
     },
     token: tokens.nrv,
     quoteToken: tokens.wbnb,
